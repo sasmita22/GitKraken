@@ -1,1 +1,2 @@
-Pertama
+Pertama 
+commit kedua dari master
